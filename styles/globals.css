@@ -5,3 +5,6 @@
 .shiny-text {
   @apply bg-gradient-to-r from-[#2189c6] to-[#ce2029] text-opacity-0 text-white bg-clip-text select-none;
 }
+.shiny-blue {
+  color: #2189c6;
+}
